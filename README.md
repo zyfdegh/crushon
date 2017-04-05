@@ -1,6 +1,6 @@
 # crushon
 
-Crushon fetches tracks of someone from his comments on Netease Cloud Music.
+Crushon fetches someone's comments on Netease Cloud Music.
 
 # Clone
 
